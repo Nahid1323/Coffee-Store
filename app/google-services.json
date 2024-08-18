@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513607000928",
+    "project_id": "coffee-store-bdece",
+    "storage_bucket": "coffee-store-bdece.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513607000928:android:eee979f1276fd8eb42f405",
+        "android_client_info": {
+          "package_name": "com.mahtabunnabi.coffeestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjzApwbbl03lpxfNYhn7ikc05O6tOpjJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
